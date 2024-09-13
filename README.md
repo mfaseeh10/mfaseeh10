@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+ 🔭 I’m currently working in Bazaar Technologies as a Software Engineer
 <!--
 **mfaseeh10/mfaseeh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Faseeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaseeh10&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaseeh10&layout=compact&theme=dark)
